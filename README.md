@@ -8,7 +8,6 @@ MATres is a comprehensive, open-source software package designed to enable preci
 * Refined ROI visualization and selection tools
 * Expanded compatibility with various imaging modalities and atlases
 * Streamlined and accurate registration and warping processes
-* Enhanced 3D reconstruction and visualization functionalities
 
 ## Usage
 
