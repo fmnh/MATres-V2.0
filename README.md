@@ -30,9 +30,7 @@ We also offer a [video tutorial](https://www.youtube.com/watch?v=V7A9hZUE7-w) to
 We believe that MATres V2.0 will prove valuable for researchers and clinicians in the field of neuroscience. If you have questions or suggestions for improvement, please don't hesitate to contact us at [fmnh11510@gmail.com](mailto:fmnh11510@gmail.com).
 
 
-
-
-![matres1](https://github.com/fmnh/MATres-V2.0/assets/130893427/b7fdd62e-d611-4da7-819c-5d7f595a86af)
+![matres1](https://github.com/fmnh/MATres-V2.0/assets/130893427/cc59d876-8086-4e8b-a0f7-ffbb136ef7cd)
 
 ![matres2](https://github.com/fmnh/MATres-V2.0/assets/130893427/7e54276d-d2c3-4c0b-afd5-3c1739c2d043)
 
