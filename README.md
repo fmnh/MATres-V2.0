@@ -29,7 +29,6 @@ We have also created a video tutorial to help users get started with MATres V2.0
 ## Contact Us
 
 We hope that MATres V2.0 will be a valuable tool for researchers and clinicians working in the field of neuroscience. If you have any questions or suggestions for improvement, please feel free to contact us at your-email-address.
+![matres1](https://github.com/fmnh/MATres-V2.0/assets/130893427/b7fdd62e-d611-4da7-819c-5d7f595a86af)
 
-## License
 
-MATres V2.0 is licensed under the MIT License. See the LICENSE file for more information.
