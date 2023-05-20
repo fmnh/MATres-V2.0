@@ -1,38 +1,41 @@
-# MATres (Version 2.0)
+# MATres V2.0
 
-MATres is a free, open-source software package designed to facilitate accurate targeting of brain areas for stimulation and/or electrophysiological recording in therapeutic applications and basic neuroscience research. It provides an end-to-end solution that accommodates all steps required for exact localization, visualization, and targeting regions of interest (ROIs) using standard atlases and skull implants, including various preprocessing, registration and warping procedures, and 3D reconstructions.
+MATres is a comprehensive, open-source software package designed to enable precise targeting of brain areas for stimulation and/or electrophysiological recording in therapeutic applications and fundamental neuroscience research. The software offers an all-inclusive solution for accurately localizing, visualizing, and targeting regions of interest (ROIs) utilizing standard atlases and skull implants. Version 2.0 supports various preprocessing, registration, warping procedures, and 3D reconstructions for macaque and human T1 MRI images, as well as marmoset T2 MRI images.
 
 ## Features
-* Added Marmoset T2 MRI based atlases according to the https://dataportal.brainminds.jp/marmoset-mri-na216 website for T2 MRI images
-* Improved ROI visualization and selection tools
-* Enhanced compatibility with different imaging modalities and atlases
-* More efficient and accurate registration and warping procedures
-* Improved 3D reconstruction and visualization capabilities
 
+* In version 2.0, MATres introduces registration and warping capabilities for marmoset T2 MRI images. The software now includes marmoset T2 MRI atlases, accessible from the [Marmoset MRI-NA216 website](https://dataportal.brainminds.jp/marmoset-mri-na216) for T2 MRI images.
+* Refined ROI visualization and selection tools
+* Expanded compatibility with various imaging modalities and atlases
+* Streamlined and accurate registration and warping processes
+* Enhanced 3D reconstruction and visualization functionalities
 
 ## Usage
 
-MATres V2.0 can be used for a variety of applications, including:
+MATres V2.0 is suitable for numerous applications, such as:
 
-* Accurate targeting of brain areas for stimulation and/or electrophysiological recording in therapeutic applications and basic neuroscience research
-* Exact localization, visualization, and targeting of regions of interest (ROIs) using standard atlases and skull implants
-* Various preprocessing, registration and warping procedures, and 3D reconstructions
+* Precise targeting of brain areas for stimulation and/or electrophysiological recording in therapeutic applications and fundamental neuroscience research
+* Accurate localization, visualization, and targeting of regions of interest (ROIs) using standard atlases and skull implants
+* A range of preprocessing, registration, warping procedures, and 3D reconstructions
 
-For more information on how to download and use MATres V2.0, please visit our GitHub repository at https://github.com/fmnh/MATres.
+To download and learn more about using MATres V2.0, visit our [GitHub repository](https://github.com/fmnh/MATres).
 
 ## Paper and Video Tutorial
 
-For more details on the methodology and applications of MATres, please see our paper titled "A novel methodology for exact targeting of human and non-human primate brain structures and skull implants using atlas-based 3D reconstruction" with DOI: https://doi.org/10.1016/j.jneumeth.2023.109851 (https://www.sciencedirect.com/science/article/abs/pii/S0165027023000705)
+For further information on the methodology and applications of MATres, consult our paper, "A novel methodology for exact targeting of human and non-human primate brain structures and skull implants using atlas-based 3D reconstruction," available at [https://doi.org/10.1016/j.jneumeth.2023.109851](https://www.sciencedirect.com/science/article/abs/pii/S0165027023000705).
 
-We have also created a video tutorial to help users get started with MATres V1.0, which can be found at https://www.youtube.com/watch?v=V7A9hZUE7-w.
+We also offer a [video tutorial](https://www.youtube.com/watch?v=V7A9hZUE7-w) to help users get started with MATres V1.0.
 
 ## Contact Us
 
-We hope that MATres V2.0 will be a valuable tool for researchers and clinicians working in the field of neuroscience. If you have any questions or suggestions for improvement, please feel free to contact us (fmnh11510@gmail.com).
+We believe that MATres V2.0 will prove valuable for researchers and clinicians in the field of neuroscience. If you have questions or suggestions for improvement, please don't hesitate to contact us at [fmnh11510@gmail.com](mailto:fmnh11510@gmail.com).
 
 
 
 
 ![matres1](https://github.com/fmnh/MATres-V2.0/assets/130893427/b7fdd62e-d611-4da7-819c-5d7f595a86af)
 
+![matres2](https://github.com/fmnh/MATres-V2.0/assets/130893427/7e54276d-d2c3-4c0b-afd5-3c1739c2d043)
+
+![matres3](https://github.com/fmnh/MATres-V2.0/assets/130893427/62bff420-ccdc-4b05-b661-0682555281d3)
 
