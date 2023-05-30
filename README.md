@@ -21,17 +21,6 @@ MATres V2.0 is suitable for numerous applications, such as:
 * Accurate localization, visualization, and targeting of regions of interest (ROIs) using standard atlases and skull implants
 * A range of preprocessing, registration, warping procedures, and 3D reconstructions
 
-To download and learn more about using MATres V2.0, visit our [GitHub repository](https://github.com/fmnh/MATres).
-
-
-## Usage
-
-MATres V2.0 is suitable for numerous applications, such as:
-
-* Precise targeting of brain areas for stimulation and/or electrophysiological recording in therapeutic applications and fundamental neuroscience research
-* Accurate localization, visualization, and targeting of regions of interest (ROIs) using standard atlases and skull implants
-* A range of preprocessing, registration, warping procedures, and 3D reconstructions
-
 In most cases, the pre-processing step may not be necessary, as the software already provides high-quality results. However, for MRI images of poor quality or those acquired with improper MRI imaging coils, the automatic pre-processing section can significantly improve the images.
 
 Alternatively, users can manually adjust the MAX values in the manual parameter setting section to enhance the appearance quality of the images, especially for the brain.
