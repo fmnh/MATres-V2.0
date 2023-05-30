@@ -8,6 +8,10 @@ MATres is a comprehensive, open-source software package designed to enable preci
 * Refined ROI visualization and selection tools
 * Expanded compatibility with various imaging modalities and atlases
 * Streamlined and accurate registration and warping processes
+* Automatic pre-processing section to enhance MRI image quality, particularly for marmosets
+* Manual parameter setting for adjusting MAX values to improve image appearance, specifically for the brain
+* Reset section for reverting images to their original state before pre-processing
+* Improved skull stripping and linear/non-linear warping capabilities
 
 ## Usage
 
@@ -16,6 +20,23 @@ MATres V2.0 is suitable for numerous applications, such as:
 * Precise targeting of brain areas for stimulation and/or electrophysiological recording in therapeutic applications and fundamental neuroscience research
 * Accurate localization, visualization, and targeting of regions of interest (ROIs) using standard atlases and skull implants
 * A range of preprocessing, registration, warping procedures, and 3D reconstructions
+
+To download and learn more about using MATres V2.0, visit our [GitHub repository](https://github.com/fmnh/MATres).
+
+
+## Usage
+
+MATres V2.0 is suitable for numerous applications, such as:
+
+* Precise targeting of brain areas for stimulation and/or electrophysiological recording in therapeutic applications and fundamental neuroscience research
+* Accurate localization, visualization, and targeting of regions of interest (ROIs) using standard atlases and skull implants
+* A range of preprocessing, registration, warping procedures, and 3D reconstructions
+
+In most cases, the pre-processing step may not be necessary, as the software already provides high-quality results. However, for MRI images of poor quality or those acquired with improper MRI imaging coils, the automatic pre-processing section can significantly improve the images.
+
+Alternatively, users can manually adjust the MAX values in the manual parameter setting section to enhance the appearance quality of the images, especially for the brain.
+
+To revert the image back to its original state before pre-processing, utilize the reset section.
 
 To download and learn more about using MATres V2.0, visit our [GitHub repository](https://github.com/fmnh/MATres).
 
