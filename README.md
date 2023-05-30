@@ -57,3 +57,15 @@ We believe that MATres V2.0 will prove valuable for researchers and clinicians i
 
 ![matres3](https://github.com/fmnh/MATres-V2.0/assets/130893427/62bff420-ccdc-4b05-b661-0682555281d3)
 
+
+
+An example of pre-processing step:
+
+![sada](https://github.com/fmnh/MATres-V2.0/assets/130893427/7f0ddb05-881a-4f8e-8581-f5f55562f2b2)
+
+![sasdacc](https://github.com/fmnh/MATres-V2.0/assets/130893427/d774a728-056b-40bc-869f-abf84adfa298)
+
+![qweqwwq](https://github.com/fmnh/MATres-V2.0/assets/130893427/d509314f-70a7-4fbf-86ac-fbc60b5fdbf1)
+
+![dgdgfdg](https://github.com/fmnh/MATres-V2.0/assets/130893427/4b5a137e-4955-4509-86a2-9df2dbf34c0e)
+
